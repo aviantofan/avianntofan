@@ -12,6 +12,4 @@ I'm enthusiastic about programming escpecially in javascript , java, and IOT con
 
 ## Reach Me At:
 
-[<img src="https://img.icons8.com/doodle/100/undefined/linkedin-circled.png"/>](https://www.linkedin.com/in/tofanavianto)
-
-[<img src="https://img.icons8.com/external-justicon-lineal-color-justicon/100/undefined/external-gmail-social-media-justicon-lineal-color-justicon.png"/>](mailto:aviantofan@gmail.com)
+[<img src="https://img.icons8.com/doodle/100/undefined/linkedin-circled.png"/>](https://www.linkedin.com/in/tofanavianto) [<img src="https://img.icons8.com/external-justicon-lineal-color-justicon/100/undefined/external-gmail-social-media-justicon-lineal-color-justicon.png"/>](mailto:aviantofan@gmail.com)
