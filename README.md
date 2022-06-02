@@ -4,7 +4,7 @@ I'm enthusiastic about programming escpecially in javascript , java, and IOT con
 
 # Tools That i'm usually using
 
-<img src="https://img.icons8.com/plasticine/100/undefined/visual-studio-code-2019.png"/>  <img src="https://img.icons8.com/plasticine/100/undefined/chrome.png"/>  <img src="https://img.icons8.com/plasticine/100/undefined/figma.png"/>
+<img src="https://img.icons8.com/plasticine/50/undefined/visual-studio-code-2019.png"/>  <img src="https://img.icons8.com/plasticine/45/undefined/chrome.png"/>  <img src="https://img.icons8.com/plasticine/45/undefined/figma.png"/>
 
 # My Specialities
 
